@@ -9,12 +9,12 @@
 - Arduino-based Air Pollution Monitoring System: Collaborated on developing a system that detects and alerts users about high pollution levels.
 
 ## Experience
--Internship in Machine Learning with Python - Internshala
+- Internship in Machine Learning with Python - Internshala
 - Internship on Programming with Python - Internshala
 
 ## Certifications
 
-- Programming with Python - Internshala
+- Kaagle - Machine Learning
 - HackerRank - Recognized for programming skills
 - Leetcode
 
